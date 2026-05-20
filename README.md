@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Reino Joseph Setyawan
+# 👋 Hello, I'm Reino
 
 **Quantitative-focused Computer Science Student & Software Engineer**
 
@@ -6,8 +6,6 @@ I bridge the gap between complex data analysis and robust software architecture.
 
 ### 🔭 Currently working on:
 * **[Sooiq](https://github.com/rjsreino/Sooiq):** Full-stack AI-driven stock prediction platform integrating real-time market data with predictive ML models.
-* **[Ruetinely](https://github.com/rjsreino/Ruetinely):** A responsive habit-tracking application featuring interactive visual progress mapping.
-
 ---
 
 ### 🛠️ Core Tech Stack
@@ -26,11 +24,8 @@ I bridge the gap between complex data analysis and robust software architecture.
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rjsreino&theme=radical&hide_border=false&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjsreino&theme=radical&hide_border=false&layout=compact" />
-</p>
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rjsreino&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 📫 Get in Touch
 * **Email:** rjs.reino@gmail.com
