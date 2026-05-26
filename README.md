@@ -5,7 +5,8 @@
 I bridge the gap between complex data analysis and robust software architecture. My work focuses on building scalable data pipelines, predictive models, and performant web applications.
 
 ### 🔭 Currently working on:
-* **[Sooiq](https://github.com/rjsreino/Sooiq):** Full-stack AI-driven stock prediction platform integrating real-time market data with predictive ML models.
+* **[PacePilot](https://github.com/rjsreino/pace-pilot-os):** An adaptive Agentic AI running coach.
+* **[VICKY](https://github.com/rjsreino/capstone-ai-smart-robot):** A wearable/companion cloud-assisted mobile navigation system designed to guide visually impaired users through indoor environments.
 ---
 
 ### 🛠️ Core Tech Stack
